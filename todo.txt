@@ -1,0 +1,4 @@
+Revise Python functions
+Practice breadboard circuits
+Push code to GitHub
+Read notes for lab
